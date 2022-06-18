@@ -86,3 +86,15 @@
 13. Current Project Architecture
 14. Role and Responsibilities in your current project
 15. Difference between phantom read and dirty read
+
+
+---------------------------------------ADDED BY ARTI------------------------------------------------------
+How to Microservices
+Final List<String>
+Can we change the property of applicaion without redeploying
+ Ow
+Builder Pattern
+Map<String, Long> map {How to get long value > 5000}
+@Autowire
+MyCalss class (which autowiring)
+   
